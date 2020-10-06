@@ -35,7 +35,15 @@ The pie chart gives a visual representation of the distribution of male versus f
 
 ### Line Graph ### 
 
+The line graph below was generated using `Pyplot .plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
+
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/line_plot.png)
+
+### Scatter Plot ### 
+
+The scatter plot below was generated using `Pyplot .scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
+
+![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/scatter_plot.png)
 
 ## Correlation and Regression ##
 
