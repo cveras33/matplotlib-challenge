@@ -8,7 +8,7 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 * [Quartiles, Outliers and Boxplots](#quartiles-outliers-and-boxplots)
 * [Line and Scatter Plots](#line-and-scatter-plots)
 * [Correlation and Regression](#correlation-and-regression)
-* [Observations and Insights](observations-and-insights)
+* [Observations and Insights](#observations-and-insights)
   
 ## Summary Statistics ##
 
