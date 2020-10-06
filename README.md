@@ -14,6 +14,8 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 
 ## Bar and Pie Charts ##
 
+![Pandas Bar Chart](http://localhost:8888/view/Pymaceuticals/pandas_bar_plot.png)
+
 ## Quartiles, Outliers and Boxplots ##
 
 ## Line and Scatter Plots ##
