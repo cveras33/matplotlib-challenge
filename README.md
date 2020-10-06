@@ -13,9 +13,13 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 ## Summary Statistics ##
 
 ## Bar and Pie Charts ##
+
+### Bar Charts ### 
+Two bar charts using identical data were generated. The first bar chart was generated using 'Pandas .plot.bar()' function, and the second bar chart was generated using 'Pyplot .bar()' function. 
+
 ![Pandas Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/pandas_bar_plot.png)
 
-![Pyplot Bar Plot(https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_bar_plot.png) 
+![Pyplot Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_bar_plot.png) 
 
 ## Quartiles, Outliers and Boxplots ##
 
