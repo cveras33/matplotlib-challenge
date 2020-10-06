@@ -6,12 +6,22 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 * [Summary Statistics](#summary-statistics)
 * [Bar and Pie Charts](#bar-and-pie-charts)
 * [Quartiles, Outliers and Boxplots](#quartiles-outliers-and-boxplots)
-* [Status](#status)
+* [Line and Scatter Plots](#line-and-scatter-plots)
+* [Correlation and Regression](#correlation-and-regression)
+* [Observations and Insights](observations-and-insights)
   
 ## Summary Statistics ##
 
 ## Bar and Pie Charts ##
 
-## Status ##
+## Quartiles, Outliers and Boxplots ##
+
+## Line and Scatter Plots ##
+
+## Correlation and Regression ##
+
+## Observations and Insights ##
+
+### Status ###
 
 Project is: *in progress*
