@@ -15,15 +15,27 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 ## Bar and Pie Charts ##
 
 ### Bar Charts ### 
-Two bar charts using identical data were generated. The first bar chart was generated using `Pandas .plot.bar()` function, and the second bar chart was generated using `Pyplot .bar()` function. 
+Two bar charts using identical data were generated. The first bar chart was generated using `Pandas .plot.bar()` function, and the second bar chart was generated using `Pyplot plt.bar()` function. Below I provided just the Pyplot bar chart, as both bar charts are statistically identical. To view the Pandas bar chart, please scroll to the approprite section within Jupter Notebook. 
 
-![Pandas Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/pandas_bar_plot.png)
+The bar chart gives a visual representation of the total number of datapoints for each drug regimen. The chart shows that Capomulion, Pymaceutical's drug, had the most datapoints, and Propriva has the least amount of data points. 
 
 ![Pyplot Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_bar_plot.png) 
+
+### Pie Charts ### 
+
+Similarly to the bar charts, two pie were generated as well. The first pie chart was generated using `Pandas .plot.pie()` function, and the second pie chart was generated using `Pyplot plt.pie()` function. Below I provided just the Pyplot pie chart. Since, again, both pie charts statistically identical. To view the Pandas pie chart, please scroll to the approprite section within Jupter Notebook. 
+
+The pie chart gives a visual representation of the distribution of male versus female mice. The chart shows there were slightly more males in the study than females. 
+
+![Pyplot Pie Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_pie_plot.png)
 
 ## Quartiles, Outliers and Boxplots ##
 
 ## Line and Scatter Plots ##
+
+### Line Graph ### 
+
+![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/line_plot.png)
 
 ## Correlation and Regression ##
 
