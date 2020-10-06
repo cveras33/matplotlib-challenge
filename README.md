@@ -13,7 +13,7 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 ## Summary Statistics ##
 
 ## Bar and Pie Charts ##
-![Test Image](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/pandas_bar_plot.png)
+![Test Image](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/pandas_bar_plot_1.png)
 
 ## Quartiles, Outliers and Boxplots ##
 
