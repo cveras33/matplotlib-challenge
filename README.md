@@ -4,5 +4,5 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 
 <h2> Table of Contents 
   
-<h2> Status
+<h2> Status <h2>
 Project is: *in progress*
