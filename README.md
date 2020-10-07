@@ -15,7 +15,7 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 ## Bar and Pie Charts ##
 
 ### Bar Charts ### 
-Two bar charts using identical data were generated. The first bar chart was generated using `Pandas .plot.bar()` function, and the second bar chart was generated using `Pyplot plt.bar()` function. Below I provided just the Pyplot bar chart, as both bar charts are statistically identical. To view the Pandas bar chart, please scroll to the approprite section within Jupter Notebook. 
+Two bar charts using identical data were generated. The first bar chart was generated using Pandas `.plot.bar()` function which essentially is using the matplotlib library, just through the pandas function call. The second bar chart was generated using Matplotlib `plt.bar()` function. Below I provided just the Matplotlib bar chart, as both bar charts essentially use the same code to generate the bar chart and are statistically identical. To view the Pandas bar chart, please scroll to the approprite section within Jupter Notebook. 
 
 The bar chart gives a visual representation of the total number of datapoints for each drug regimen. The chart shows that Capomulion, Pymaceutical's drug, had the most datapoints, and Propriva has the least amount of data points. 
 
@@ -23,9 +23,9 @@ The bar chart gives a visual representation of the total number of datapoints fo
 
 ### Pie Charts ### 
 
-Similarly to the bar charts, two pie were generated as well. The first pie chart was generated using `Pandas .plot.pie()` function, and the second pie chart was generated using `Pyplot plt.pie()` function. Below I provided just the Pyplot pie chart. Since, again, both pie charts statistically identical. To view the Pandas pie chart, please scroll to the approprite section within Jupter Notebook. 
+Similarly to the bar charts, two pie charts were generated as well. The first pie chart was generated using Pandas `.plot.pie()` function, and the second pie chart was generated using Matplotlib `plt.pie()` function. Below I provided just the Matplotlib pie chart. Since, again, the same code is being used both through Pandas and Matplotlib and both pie charts are statistically identical. To view the Pandas pie chart, please scroll to the approprite section within Jupter Notebook. 
 
-The pie chart gives a visual representation of the distribution of male versus female mice. The chart shows there were slightly more males in the study than females. 
+The below pie chart gives a visual representation of the distribution of male versus female mice. The chart shows there were slightly more males in the study than females. 
 
 ![Pyplot Pie Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_pie_plot.png)
 
@@ -35,13 +35,13 @@ The pie chart gives a visual representation of the distribution of male versus f
 
 ### Line Graph ### 
 
-The line graph below was generated using `Pyplot .plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
+The line graph below was generated using Matplotlib `.plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
 
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/line_plot.png)
 
 ### Scatter Plot ### 
 
-The scatter plot below was generated using `Pyplot .scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
+The scatter plot below was generated using Matplotlib `.scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
 
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/scatter_plot.png)
 
