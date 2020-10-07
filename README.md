@@ -15,7 +15,7 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
 ## Bar and Pie Charts ##
 
 ### Bar Charts ### 
-Two bar charts using identical data were generated. The first bar chart was generated using Pandas `.plot.bar()` function which essentially is using the matplotlib library, just through the pandas function call. The second bar chart was generated using Matplotlib `plt.bar()` function. Below I provided just the Matplotlib bar chart, as both bar charts essentially use the same code to generate the bar chart and are statistically identical. To view the Pandas bar chart, please scroll to the approprite section within Jupter Notebook. 
+Two bar charts using identical data were generated. The first bar chart was generated using Pandas `plot.bar()` function which essentially is using the matplotlib library, just through the pandas function call. The second bar chart was generated using Matplotlib `plt.bar()` function. Below I provided just the Matplotlib bar chart, as both bar charts essentially use the same code to generate the bar chart and are statistically identical. To view the Pandas bar chart, please scroll to the approprite section within Jupter Notebook. 
 
 The bar chart gives a visual representation of the total number of datapoints for each drug regimen. The chart shows that Capomulion, Pymaceutical's drug, had the most datapoints, and Propriva has the least amount of data points. 
 
@@ -35,13 +35,13 @@ The below pie chart gives a visual representation of the distribution of male ve
 
 ### Line Graph ### 
 
-The line graph below was generated using Matplotlib `.plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
+The line graph below was generated using Matplotlib `plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
 
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/line_plot.png)
 
 ### Scatter Plot ### 
 
-The scatter plot below was generated using Matplotlib `.scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
+The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
 
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/scatter_plot.png)
 
