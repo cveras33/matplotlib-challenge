@@ -48,7 +48,7 @@ The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows
 ## Correlation and Regression ##
 
 ### Linear Regression ###
-
+![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
 
 ## Observations and Insights ##
 
