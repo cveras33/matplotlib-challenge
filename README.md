@@ -19,7 +19,7 @@ Two bar charts using identical data were generated. The first bar chart was gene
 
 The bar chart gives a visual representation of the total number of datapoints for each drug regimen. The chart shows that Capomulion, Pymaceutical's drug, had the most datapoints, and Propriva has the least amount of data points. 
 
-![Pyplot Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_bar_plot.png) 
+![Pyplot Bar Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/plt_bar_plot.png) 
 
 ### Pie Charts ### 
 
@@ -27,7 +27,7 @@ Similarly to the bar charts, two pie charts were generated as well. The first pi
 
 The below pie chart gives a visual representation of the distribution of male versus female mice. The chart shows there were slightly more males in the study than females. 
 
-![Pyplot Pie Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/plt_pie_plot.png)
+![Pyplot Pie Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/plt_pie_plot.png)
 
 ## Quartiles, Outliers and Boxplots ##
 
@@ -37,15 +37,18 @@ The below pie chart gives a visual representation of the distribution of male ve
 
 The line graph below was generated using Matplotlib `plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
 
-![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/line_plot.png)
+![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/line_plot.png)
 
 ### Scatter Plot ### 
 
 The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
 
-![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/scatter_plot.png)
+![Scatter Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/scatter_plot.png)
 
 ## Correlation and Regression ##
+
+### Linear Regression ###
+
 
 ## Observations and Insights ##
 
