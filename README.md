@@ -80,6 +80,9 @@ The linear regression model below was generated based on the scatter plot for av
 ![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
  
 ## Observations and Insights ##
+* Looking at the box plot of tumor volume in the Capomulin, Ramicane, Infubinol and Ceftamin drug regimens, Capomulin and Ramicane were both able to decrease tumor volumes to a lesser volume than Infubinol or Ceftamin.
+* Based off the line graph created for a single mouse in the Capomulin drug regimen, it can be said that for this specific mouse, the Capomulin drug had a positive effect on tumor growth in the mouse. The graph shows that over the 45-day study period, the volume of the tumor generally decreased, with only one instance of the tumor having a greater volume at a later timepoint than the last. 
+* The scatter plot shows us that, at least for the mice within the Capomulin regimen, average tumor volume is somewhat proportional to weight. 
 
 ### Status ###
 
