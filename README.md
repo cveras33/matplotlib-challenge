@@ -12,6 +12,20 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
   
 ## Summary Statistics ##
 
+Below, the Summary Statistics dataframe containing the name of each of the drug regimens and all their summary statistics can be viewed. The summary statistics include: 
+* Mean `mean()`
+* Median `median()
+* Variance `var()`
+* Standard Deviation `std()`
+* SEM `sem()`
+
+The table was composed by doing a `groupby(["Drug Regimen])` on the merged dataframe, which was derived from two seprate .csv files. The summary statistics were then performed on the data for each drug regimen seprately using the functions, listed next to the respective summary statistics in the above bulleted list. 
+
+<details>
+  <summary>Click to expand!</summary>
+  ![Summary Statistics](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/summary_statistics.png) 
+</details>
+
 ## Bar and Pie Charts ##
 
 ### Bar Charts ### 
