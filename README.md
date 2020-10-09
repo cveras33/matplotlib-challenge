@@ -59,7 +59,7 @@ The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows
 
 ### Linear Regression ###
 
-The linear regression model below was generated based on the scatter plot for average tumor volume versus mouse weight. The linear regression equation for this model is *y = 0.74x + -10.15*. 
+The linear regression model below was generated based on the scatter plot for average tumor volume versus mouse weight. The linear regression equation for this model is *y = 0.95x + 21.55*. 
 
 ![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
 
