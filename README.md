@@ -31,6 +31,9 @@ The below pie chart gives a visual representation of the distribution of male ve
 
 ## Quartiles, Outliers and Boxplots ##
 
+### Boxplot ###
+![Boxplot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/box_plot_screenshot.png)
+
 ## Line and Scatter Plots ##
 
 ### Line Graph ### 
@@ -48,7 +51,7 @@ The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows
 ## Correlation and Regression ##
 
 ### Linear Regression ###
-![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
+![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression_screenshot.png)
 
 ## Observations and Insights ##
 
