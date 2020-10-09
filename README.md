@@ -86,4 +86,4 @@ The linear regression model below was generated based on the scatter plot for av
 
 ### Status ###
 
-Project is: *in progress*
+Project is: *complete*
