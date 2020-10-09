@@ -23,7 +23,7 @@ The bar chart gives a visual representation of the total number of datapoints fo
 
 ### Pie Charts ### 
 
-Similarly to the bar charts, two pie charts were generated as well. The first pie chart was generated using Pandas `.plot.pie()` function, and the second pie chart was generated using Matplotlib `plt.pie()` function. Below I provided just the Matplotlib pie chart. Since, again, the same code is being used both through Pandas and Matplotlib and both pie charts are statistically identical. To view the Pandas pie chart, please scroll to the approprite section within Jupter Notebook. 
+Similarly to the bar charts, two pie charts were generated as well. The first pie chart was generated using Pandas `plot.pie()` function, and the second pie chart was generated using Matplotlib `plt.pie()` function. Below I provided just the Matplotlib pie chart. Since, again, the same code is being used both through Pandas and Matplotlib and both pie charts are statistically identical. To view the Pandas pie chart, please scroll to the approprite section within Jupter Notebook. 
 
 The below pie chart gives a visual representation of the distribution of male versus female mice. The chart shows there were slightly more males in the study than females. 
 
