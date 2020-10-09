@@ -32,26 +32,36 @@ The below pie chart gives a visual representation of the distribution of male ve
 ## Quartiles, Outliers and Boxplots ##
 
 ### Boxplot ###
-![Boxplot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/box_plot_screenshot.png)
+
+The boxplot below was generated using Matplotlib `plt.boxplot()` function.  
+
+The plot shows the final tumor volume, measured in cubic millimeters, for all mice in each of the four drug regimens of interest (Capomulin, Ramicane, Infubinol, Ceftamin). As shown in the boxplot below, Infubinol and Ceftamin both had greater final tumor volumes, whereas Capomulin and Ramicane had similarly low final tumor volumes. 
+
+![Boxplot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/plt_box_plot.png)
 
 ## Line and Scatter Plots ##
 
 ### Line Graph ### 
 
-The line graph below was generated using Matplotlib `plt.plot()`, and shows tumor volume versus time point for a single mouse treated with Capomulin. The particular data shown here is for the mouse s185. 
+The line graph below was generated using Matplotlib `plt.plot()`. 
+
+The graph shows tumor volume measured in cubic millimeters versus time point measured in days for a single mouse treated with Capomulin. The spacific data shown in the line graph is for the mouse ID s185. 
 
 ![Line Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/line_plot.png)
 
 ### Scatter Plot ### 
 
-The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows the average tumor volume versus mouse weight for all mice in the Capomulin regimen. 
+The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows the average tumor volume in cubic millimeters versus mouse weight in grams for all mice in the Capomulin regimen. 
 
 ![Scatter Plot](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/scatter_plot.png)
 
 ## Correlation and Regression ##
 
 ### Linear Regression ###
-![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression_screenshot.png)
+
+The linear regression model below was generated based on the scatter plot for average tumor volume versus mouse weight. The linear regression equation for this model is *y = 0.74x + -10.15*. 
+
+![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
 
 ## Observations and Insights ##
 
