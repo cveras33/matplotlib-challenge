@@ -12,14 +12,14 @@ This project looks into Pymaceuticals Inc.'s, a pharmaceutical company specializ
   
 ## Summary Statistics ##
 
-Below, the Summary Statistics dataframe containing the name of each of the drug regimens and all their summary statistics can be viewed. The summary statistics include: 
+The Summary Statistics dataframe contains the name of each of the drug regimens and all their summary statistics can be viewed. The summary statistics include: 
 * Mean `mean()`
 * Median `median()
 * Variance `var()`
 * Standard Deviation `std()`
 * SEM `sem()`
 
-The table was composed by doing a `groupby(["Drug Regimen])` on the merged dataframe, which was derived from two seprate .csv files. The summary statistics were then performed on the data for each drug regimen seprately using the functions, listed next to the respective summary statistics in the above bulleted list. 
+The table was composed by doing a `groupby(["Drug Regimen])` on the merged dataframe, which was derived from two seprate .csv files. The summary statistics were then performed on the data for each drug regimen seprately using the functions, listed next to the respective summary statistics in the above bulleted list. To view the dataframe, click below. 
 
 <details>
   <summary>Click to view Summary Statistics dataframe</summary>
