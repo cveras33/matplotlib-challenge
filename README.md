@@ -62,7 +62,7 @@ The scatter plot below was generated using Matplotlib `plt.scatter()`, and shows
 The linear regression model below was generated based on the scatter plot for average tumor volume versus mouse weight. The linear regression equation for this model is *y = 0.95x + 21.55*. The correlation coefficient for mouse weight versus average tumor volume is **84**. 
 
 ![Linear Regression](https://github.com/cveras33/matplotlib-challenge/blob/main/Pymaceuticals/Images/linear_regression.png)
-
+ 
 ## Observations and Insights ##
 
 ### Status ###
